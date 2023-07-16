@@ -1,0 +1,8 @@
+*.exe
+*.com
+*.msi
+*.dll
+___OfflineUpdate_Powershell/*
+
+**/logs
+.vscode
